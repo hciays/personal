@@ -1,0 +1,2 @@
+#This is my first self written programm in python. It is a casino game
+
